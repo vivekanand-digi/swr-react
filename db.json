@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "vivek",
+      "author": "vivekanada"
+    },
+    {
+      "id": 2,
+      "title": "sai",
+      "author": "sai Kumar"
+    },
+    {
+      "id": 3,
+      "title": "ashis",
+      "author": "ashis maity"
+    }
+  ]
+}
